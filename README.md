@@ -1,5 +1,8 @@
-# Raol API UI
+# Zyrex Api
 
-A modern, clean, and user-friendly interface for browsing and testing Raol API endpoints.
+_Yokoso_
+Simple And Modern Api For Whatsapp Bot, Clean UI And Easy To Use
 
-![Raol API UI Screenshot](/src/banner.jpg)
+![Zyrex](/src/banner.jpg)
+
+> Thanks To Raol
